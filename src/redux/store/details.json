@@ -1,0 +1,400 @@
+{
+    "details": [
+        {
+            "id": 1,
+            "offer": "27% OFF",
+            "isfav": false,
+            "isadd": false,
+            "isprice":false,
+            "mrp": 113,
+            "count": 1,
+            "originalPrice":"₹ 82.49",
+            "originalKg":"1 kg",
+            "weight": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 82.49",
+                    "offer": "27% OFF",
+                    "isActive":true
+                },
+                {
+                    "kg": "250 g ",
+                    "price": "₹ 21.17",
+                    "offer": "27% OFF",
+                    "isActive":false
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 29",
+                    "offer": "55% OFF",
+                    "isActive":false
+                },
+                {
+                    "kg": "3 kg",
+                    "price": "",
+                    "offer": "",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Green capsicums have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "name": "Capsicum - Green (Loose)",
+            "brand": "Fresho",
+            "price": "₹ 82.49",
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000067_23-fresho-capsicum-green.jpg?tr=w-1920,q=80"
+        },
+        {
+            "id": 2,
+            "offer": "33% OFF",
+            "isfav": false,
+            "isadd": false,
+            "isprice":false,
+            "mrp": 91,
+            "count": 1,
+            "originalPrice":"₹ 151.11",
+            "originalKg":"1 kg",
+            "weight": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 151.11",
+                    "offer": "33% OFF",
+                    "isActive":true
+                },
+                {
+                    "kg": "250 g",
+                    "price": "₹ 21.17",
+                    "offer": "27% OFF",
+                    "isActive":false
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 40.15",
+                    "offer": "27% OFF",
+                    "isActive":false
+                },
+                {
+                    "kg": "5 kg",
+                    "price": "",
+                    "offer": "",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "A popular sweet-tasting root vegetable, Carrots are narrow and cone shaped."
+                        },
+                        {
+                            "li": "They have thick, fleshy, deeply colored root, which grows underground, and feathery green leaves that emerge above the ground."
+                        },
+                        {
+                            "li": "While these greens are fresh tasting and slightly bitter, the carrot roots are crunchy textured with a sweet and minty aromatic taste."
+                        },
+                        {
+                            "li": "Fresho brings you the flavour and richness of the finest crispy and juicy carrots that are locally grown and the best of the region."
+                        },
+                        {
+                            "li": "Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/912/carrot-halwa/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Carrots provide the highest content of vitamin A of all the vegetables."
+                        },
+                        {
+                            "li": "Brightly orange colored carrots have pigments like carotenoids and flavonoids, that provide several antioxidants and act as a defense against cancer."
+                        },
+                        {
+                            "li": "They aid in maintaining oral health and also decrease the risk of stroke and other heart diseases."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Refrigerate carrots in a mesh bag. Alternatively to retain freshness and for more longevity, trim off the greens and put whole carrots in a container of water and refrigerate. With this method, they stay nice and crunchy."
+                        },
+                        {
+                            "li": "If the water starts to look cloudy, change it with fresh water. Stored this way, carrots can last for even a month with no ill effects and do not wilt easily."
+                        },
+                        {
+                            "li": "Carrots have a mild, pleasant flavour that is great by themselves or blended with other foods."
+                        },
+                        {
+                            "li": "They are even good for stuffings and in making sauces."
+                        },
+                        {
+                            "li": "Carrot juice is said to be one of the most healthiest drink. Carrot halwa is the most popular Indian sweet made out of this vegetable."
+                        },
+                        {
+                            "li": "Do look up carrot jam as well."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 10000070"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road IndiranagarLandmark: Above HDFC BankBangalore, Karnataka 560071"
+                        },
+                        {
+                            "li": "Country of Origin: India"
+                        },
+                        {
+                            "li": "Best before 3 days from delivery date"
+                        },
+                        {
+                            "li": "For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address:Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory bus stop. KR Puram, Bangalore - 560016 Email:customerservice@bigbasket.com"
+                        }
+                    ]
+                }
+            ],
+            "name": "Carrot - Orange (Loose)",
+            "brand": "Fresho",
+            "price": "₹ 64",
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000070_15-fresho-carrot-orange.jpg?tr=w-1920,q=80"
+        },
+        {
+            "id": 3,
+            "offer": "53% OFF",
+            "isfav": false,
+            "isadd": false,
+            "isprice":false,
+            "mrp": 39,
+            "count": 1,
+            "originalPrice":"₹ 13.54",
+            "originalKg":"1 kg",
+            "weight": [
+                {
+                    "kg": "",
+                    "price": "",
+                    "offer": ""
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Cauliflower is made up of tightly bound clusters of soft, crumbly, sweet cauliflower florets that form a dense head."
+                        },
+                        {
+                            "li": "Resembling a classic tree, the florets are attached to a central edible white trunk which is firm and tender."
+                        },
+                        {
+                            "li": "Do not forget to check our delicious fruit recipe. https://www.bigbasket.com/cookbook/recipes/2144/cauliflower-cheese-pancakes/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "One serving of cauliflower contains 77 percent of daily recommended value of vitamin C."
+                        },
+                        {
+                            "li": "Cauliflowers are rich in B complex vitamins, potassium and manganese.They protect from the risk of heart diseases and brain disorders."
+                        },
+                        {
+                            "li": "It also contains cancer fighting nutrient called sulforaphane."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Refrigerate in a loosely sealed plastic bag. It keeps well for upto 7 days. Do not store florets for more than 5 days."
+                        },
+                        {
+                            "li": "Cooked and used in soups, rice, curries, gobi parathas( flat breads), one of the most liked recipes."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000740"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar, Landmark: Above HDFC Bank"
+                        },
+                        {
+                            "li": "Bangalore, Karnataka 560071"
+                        },
+                        {
+                            "li": "Country of Origin: India"
+                        },
+                        {
+                            "li": "Best before 3 days from delivery date"
+                        },
+                        {
+                            "li": "For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address: Innovative Retail Concepts Private Limited, Ranka Junction 4th Floor, Tin Factory bus stop. KR Puram, Bangalore - 560016 Email:customerservice@bigbasket.co"
+                        }
+                    ]
+                }
+            ],
+            "name": "Cauliflower",
+            "brand": "Fresho",
+            "price": "₹ 20.5",
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000074_19-fresho-cauliflower.jpg?tr=w-1920,q=80"
+        },
+        {
+            "id": 4,
+            "offer": "27% OFF",
+            "isfav": false,
+            "isadd": false,
+            "isprice":false,
+            "mrp": 98,
+            "count": 1,
+            "originalPrice":"₹ 71.54",
+            "originalKg":"1 kg",
+            "weight": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 71.54",
+                    "offer": "27% OFF",
+                    "isActive":true
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 36.5",
+                    "offer": "27% OFF",
+                    "isActive":false
+                },
+                {
+                    "kg": "100 g",
+                    "price": "₹ 10.22",
+                    "offer": "27% OFF",
+                    "isActive":false
+
+                },
+                {
+                    "kg": "250 g",
+                    "price": "₹ 24.09",
+                    " offer": "27% OFF",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Coriander leaves are green, fragile with a decorative appearance. They contain minimal aroma and have a spicy sweet taste."
+                        },
+                        {
+                            "li": "Now do not bother wasting time cutting off the roots as we value your money and time and provide you the freshest leafy edible parts ."
+                        },
+                        {
+                            "li": "Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/33/green-chutney/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Coriander leaves fight food poisoning and lower blood sugar levels."
+                        },
+                        {
+                            "li": "They relieve urinary tract infections and help in maintaining a healthy menstrual cycle while preventing neurological inflammations and diseases."
+                        },
+                        {
+                            "li": "Tip - Add coriander leaves to boiling water. Let it cool down and then consume it. Drink this water every morning to cleanse the stomach."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "We deliver coriander leaves in the best hygienic packages which you can directly store in your refrigerator."
+                        },
+                        {
+                            "li": "Used in curries, pickles, chutneys and for garnishing soups, rice, etc. Sprinkle the leaves over fresh salads."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100003260001"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore, Karnataka 560071"
+                        },
+                        {
+                            "li": "Country of Origin: India"
+                        },
+                        {
+                            "li": "Best before 3 days from delivery date"
+                        },
+                        {
+                            "li": "For Queries/Feedback/Complaints, Contact our Customer Care Executive at: Phone: 1860 123 1000 | Address: Supermarket Grocery Supplies Pvt Ltd. No7, Service Road, Domlur 100 Feet Road, Indiranagar, Bangalore 560071. | Email: customerservice@bigbasket.com"
+                        }
+                    ]
+                }
+            ],
+            "name": "Coriander Leaves",
+            "brand": "Fresho",
+            "price": "₹  151.11",
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000326_14-fresho-coriander-leaves.jpg?tr=w-1920,q=80"
+        }
+    ]
+}

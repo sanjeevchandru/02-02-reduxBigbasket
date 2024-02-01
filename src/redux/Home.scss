@@ -1,0 +1,310 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    box-shadow: 0 0 15px #ccc;
+    position: fixed;
+    width: 100%;
+    // z-index: 1;
+    background-color: #fff;
+    .container{
+        width: 75%;
+        margin: auto;
+        .nav-row{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .logo{
+                width: 15%;
+                cursor: pointer;
+                img{
+                    width: 100%;
+                }
+            }
+            .nav-col{
+                width: 10%;
+                display: inline-flex;
+                align-items: center;
+                justify-content: space-between;
+                .nav-cart{
+                       background-color: rgb(254, 211, 211); 
+                    //    color: rgb(139, 10, 10);
+                       padding: 3px 5px;
+                       border-radius: 5px;
+                }
+            }
+        }
+
+    }
+}
+
+.container{
+    width: 75%;
+    margin: auto;
+    .row{
+        background-color: #f2f2f2;
+        display: flex;
+        padding-top:10% ;
+        .col{
+            width: 25%;
+            padding: 15px;
+            .card{
+                padding: 20px;
+                box-shadow: 0 0 10px #ccc;
+                border-radius: 10px;
+                background-color: #fff;
+                text-align: left;
+                .img-col{
+                    position: relative;
+                    border: 1px solid #ccc;
+                    border-radius: 15px;
+                    p{
+                        font-size: 13px;
+                        background-color: green;
+                        border-radius: 10px 0 10px 0;
+                        color: #fff;
+                        position: absolute;
+                        top: 0;
+                        padding: 3px;
+                    }
+                    img{
+                        width: 100%;
+                    }
+                }
+                .pro-name{
+                    padding-bottom: 15% ;
+                }
+                .brand{
+                    color: #999;
+                }
+                .kg-row{
+                    border: 1px solid #ccc;
+                    border-radius: 5px;
+                    position: relative;
+                    .kg-abs{
+                        position: absolute;
+                        top: 200%;
+                        left: 10%;
+                        background-color: #fff;
+                        // padding: 10px;
+                        border: 1px solid #ccc;
+                        width: 140%;
+                        .kg-col{
+                            width: 100%;
+                            .kg-card{
+                                padding: 5px;
+                                .kg-p{
+                                    border: 1px solid #ccc;
+                                    padding: 5px;
+                                    cursor: pointer;
+                                    .kg-offer{
+                                        display: flex;
+                                        // justify-content: space-between;
+                                        .offer{
+                                            background-color: rgb(210, 251, 207);
+                                            border-radius: 5px;
+                                        }
+                                        p{
+                                            padding: 0 10px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .btn-row{
+                    padding:  10px 0;
+                    display: flex;
+                    justify-content: space-between;
+                    // text-align: center;
+                    align-items: center;
+                    .fav-btn{
+                        width: 20%;
+                        padding: 3px 4px;
+                        border: 2px solid #999;
+                        border-radius: 5px;
+                        text-align: center;
+                    }
+                    .addtrue{
+                        width: 75%;
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+
+                        border: 1px solid red;
+                        border-radius: 5px;
+                        button{
+                            padding: 4px 15px;
+                            border: 0;
+                            background-color: red;
+                            color: #fff;
+                            font-size: 18px;
+                            cursor: pointer;
+                        }
+                    }
+                    .cart-btn{
+                        width: 75%;
+                        border: 1px solid red;
+                        border-radius: 5px;
+                        text-align: center;
+                        color: red;
+                        padding:4px 0 ;
+                        cursor: pointer;
+                    }
+                    .cart-btn:hover{
+                        background-color: red;
+                        color: #fff;
+                    }
+                }
+            }
+            
+        }
+    }
+}
+
+//details section
+.det-sec{
+    .container{
+        width: 70%;
+        margin: auto;
+        .det-row{
+            padding: 5% 0;
+            display: flex;
+            .det-col{
+                width: 50%;
+                .det-card{
+                    padding: 20px;
+                    text-align: left;
+                    span{
+                        color: #ccc;
+                    }
+                    h4{
+                        padding: 10px 0;
+                        span{
+                            color: #999;
+                            font-weight: normal;
+                            font-size: 14px;
+                        }
+                    }
+                    p{
+                        color: green;
+                    }
+                    .btn-row{
+                        display: flex;
+                        justify-content: space-between;
+                        padding: 15px 0;
+                        .addtrue{
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            width: 45%;
+                            // height: 100%;
+                            border: 1px solid red;
+                            border-radius: 5px;
+                            p{
+                                color: red;
+                                font-size: 20px;
+                                font-weight: bold;
+                            }
+                            button{
+                                // width: 25%;
+                                border: 0;
+                                background-color: red;
+                                padding: 15px 25px;
+                                color: #fff;
+                                font-size: 20px;cursor: pointer;
+                            }
+                        }
+                        .btn1{
+                            width: 45%;
+                            button{
+                                border-radius: 5px;
+                                background-color: red;
+                                padding: 15px;
+                                border: 0;
+                                width: 100%;
+                                color: #fff;
+                                font-size: 18px;
+                                cursor: pointer;
+                            }
+                            // background-color: red;
+                        }
+                        .btn2{
+                            width: 45%;
+                            button{
+                                border-radius: 5px;
+                                padding: 15px;
+                                width: 100%;
+                                background-color: #fff;
+                                border: 1px solid #999;
+                                font-size: 18px;
+                                cursor: pointer;
+                            }
+                        }
+                    }
+                    .extra{
+                        // background-color: red;
+                        // padding: 10px;
+                        .extra-col{
+                            padding: 10px;
+                            .extra-card{
+                                display: flex;
+                                justify-content: space-between;
+                                border: 1px solid #ccc;
+                                border-radius: 5px;
+                                // padding: 10px;
+                                cursor: pointer;
+                                div{
+                                    padding: 10px;
+                                    p{
+                                        color: #000;
+                                        font-weight: bold;
+                                    }
+                                    li{
+                                        // color: red;
+                                        list-style-type:none ;
+                                    }
+                                    span{
+                                        color: green;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    
+                }
+                .img-card{
+                    border: 1px solid #ccc;
+                    border-radius: 10px;
+                    img{
+                        width: 100%;
+                    }
+                }
+            }
+        }
+        .li-sec{
+            border: 1px solid #ccc;
+            text-align: left;
+            padding: 5%;
+            border-radius:  10px;
+            h4{
+                font-weight: 500;
+            }
+            .ul-row{
+                padding: 15px 0;
+                border-bottom: 1px solid #ccc;
+                ul{
+                    
+                    li{
+                        padding-left:0;
+                        font-size: 14px;
+                        list-style-position:center;
+                    }
+                }
+            }
+        }
+    }
+}
